@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @nekkantimadhu
-- 👀 I’m interested in Web Development, Graphic Designing, Content Writing.
-- 🌱 I’m currently learning AI, ML, Android App Development.
-- 💞️ I’m looking to collaborate on Open Source Projects.
-- 📫 Reach me at nekkantimadhusri13@gmail.com
+# 👋 Hi, I'm Madhu Sri
 
-<!---
-nekkantimadhu/nekkantimadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Software Engineer | Networking | Automation | Cybersecurity
+- 🌐 2+ years of experience working with HTTP, HTTP/2, TCP & network troubleshooting.
+- 🐍 Passionate about Python automation, software testing, debugging & building reliable systems.
+- 🔐 Currently exploring Cybersecurity, DevSecOps, Cloud & Software Architecture.
+- 🛠️ Tech: Python • C/C++ • Linux • Docker • Kubernetes • Flask • MySQL • Git
+- 🚀 Interested in Software Engineering, Network Software, Test Automation & Cybersecurity.
+- 🤝 Open to collaborating on interesting Open Source & Engineering projects.
